@@ -1,0 +1,93 @@
+* {
+  margin: 5px;
+  padding: 5px;
+  font-family: "Open Sans Light";
+  font-weight: inherit;
+  font-style: inherit;
+  text-decoration: none;
+  list-style: none;
+  }
+
+html {
+	    background: none repeat scroll 0% 0% #EAEFF2;
+		color:#000000;
+}
+
+.button {
+		background-color:#e66000;
+		-moz-border-radius:6px;
+		-webkit-border-radius:6px;
+		border-radius:6px;
+		border:1px solid #dcdcdc;
+		display:inline-block;
+		color:#ffffff;
+		font-size:16px;
+		font-weight:bold;
+		padding:10px 20px;
+		text-decoration:none;
+	}
+	
+#go:hover {
+	background-color:#ff9500;
+}
+
+#go:active {
+	position:relative;
+	top:1px;
+}
+	
+h1 {
+	font-size:28px;
+}
+
+textarea, input {
+	font-size: 12px;
+}
+
+#footer {
+	font-size:12px;
+}
+
+#search-form{
+	max-width:900px;
+}
+
+#q{
+	width:100%;
+}
+
+.label {
+	vertical-align:top; 
+	text-align:right;
+}
+
+
+/* tables */
+/* 
+Generic Styling, for Desktops/Laptops 
+*/
+.data-table { 
+  width: 100%; 
+  border-collapse: collapse; 
+}
+/* Zebra striping */
+.data-table tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+.data-table th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+  font-size:12px;
+}
+.data-table td, th { 
+  padding: 3px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+}
+
+.data-table td {
+	font-size: 11px;
+}
+
+
