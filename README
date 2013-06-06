@@ -1,1 +1,1 @@
-This file was created by JetBrains PhpStorm 6.0.2 for binding GitHub repository
+MoPal is a simple tool for exporting Elastic Search queries to .CSV files. I use this as a method to perform ad-hoc analysis on the results using Tableau Software.
